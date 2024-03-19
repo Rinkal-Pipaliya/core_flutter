@@ -1,16 +1,10 @@
-# pr_1_1
+# Desiner
 
 A new Flutter project.
 
-## Getting Started
+List of Frutis
 
-This project is a starting point for a Flutter application.
+# Software
+ - Android Studio, VS Code
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![list](https://github.com/Rinkal-Pipaliya/core_flutter/assets/149695892/bb37d4da-ce85-44d4-bdb2-803a62de81cb)
